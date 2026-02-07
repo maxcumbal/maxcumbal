@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Maximilian! 👋
 
-<!--
-**maxcumbal/maxcumbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Business Informatics student** with a passion for building digital solutions.
 
-Here are some ideas to get you started:
+### 🛠 What I'm doing
+- **Web Development:** I build websites in my free time and am constantly expanding my front-end and back-end skills.
+- **Languages:** - **SQL:** Solid foundation, currently deepening my knowledge.
+  - **Java & Python:** Familiar with the basics, actively learning more every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Projects
+- [skygreystudios-site](https://github.com/maxcumbal/skygreystudios-site) – A professional website for a videographer.
+
+### 📫 Connect with me
+[LinkedIn Link] | [Email]

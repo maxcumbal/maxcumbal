@@ -11,4 +11,4 @@ I'm a **Business Informatics student** with a passion for building digital solut
 - [skygreystudios-site](https://github.com/maxcumbal/skygreystudios-site) – A professional website for a videographer.
 
 ### 📫 Connect with me
-[LinkedIn Link] | [Email]
+[Email](mailto:maxy.cumbal@yahoo.com)

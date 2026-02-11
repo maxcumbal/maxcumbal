@@ -8,7 +8,7 @@ I'm a **Business Informatics student** with a passion for building digital solut
   - **Java & Python:** Familiar with the basics, actively learning more every day.
 
 ### 📂 Projects
-- [skygreystudios-site](https://github.com/maxcumbal/skygreystudios-site) – A professional website for a videographer.
+- [skygreystudios-site](https://github.com/maxcumbal/skygrey) – A professional website for a videographer.
 
 ### 📫 Connect with me
 [Email](mailto:maxy.cumbal@yahoo.com)
